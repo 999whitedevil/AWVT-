@@ -1,8 +1,14 @@
-# AWVT-
-(AWVT) AUTOMATED WEB-VULLNERABILITY TESTER  A automated website VULLNERABILITY tester tool developed by Aditya kumar sahu, the tools performs the follwing test
+AWVT - Automated Web-Vulnerability Tester
 
+Developed by: Aditya Kumar Sahu | Cyber Security Specialist
+In Partnership With:
 
+* Himanshu Vyas | CEHv12 Certified | profile : https://www.linkedin.com/in/himanshu-vyas-789283252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* Neha Goklani | CND Certified | profile : https://www.linkedin.com/in/neha-goklani-915a8424a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+About AWVT
+
+The Automated Web-Vulnerability Tester (AWVT) is a powerful tool designed to perform a comprehensive suite of vulnerability checks on websites. Tailored for cybersecurity professionals, AWVT automates the detection of critical security flaws to help protect web applications from potential threats.
 Vulnerability Checks
 ✔️ DNS/HTTP Load Balancers & Web Application Firewalls.
 ✔️ Checks for Joomla, WordPress and Drupal
