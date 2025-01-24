@@ -11,14 +11,23 @@ About AWVT
 The Automated Web-Vulnerability Tester (AWVT) is a powerful tool designed to perform a comprehensive suite of vulnerability checks on websites. Tailored for cybersecurity professionals, AWVT automates the detection of critical security flaws to help protect web applications from potential threats.
 Vulnerability Checks
 ✔️ DNS/HTTP Load Balancers & Web Application Firewalls.
+
 ✔️ Checks for Joomla, WordPress and Drupal
+
 ✔️ SSL related Vulnerabilities (HEARTBLEED, FREAK, POODLE, CCS Injection, LOGJAM, OCSP Stapling).
+
 ✔️ Commonly Opened Ports.
+
 ✔️ DNS Zone Transfers using multiple tools (Fierce, DNSWalk, DNSRecon, DNSEnum).
+
 ✔️ Sub-Domains Brute Forcing (DNSMap, amass, nikto)
+
 ✔️ Open Directory/File Brute Forcing.
+
 ✔️ Shallow XSS, SQLi and BSQLi Banners.
+
 ✔️ Slow-Loris DoS Attack, LFI (Local File Inclusion), RFI (Remote File Inclusion) & RCE (Remote Code Execution).
+
 
 
 with these at end its creates a report file for better QA testing and also calculates the VULLNERABILITY of percentages.
